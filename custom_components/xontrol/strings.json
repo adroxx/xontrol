@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Xontrol",
+        "description": "Xontrol manages which entities are exposed to your self-hosted Alexa Smart Home skill, replacing manual configuration.yaml edits. No configuration needed -- it reads your existing Alexa skill settings automatically."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Xontrol is already set up."
+    }
+  }
+}

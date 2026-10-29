@@ -1,0 +1,12 @@
+{
+    "domain": "xontrol",
+    "name": "Xontrol",
+    "codeowners": [
+        "@adroxx"
+    ],
+    "config_flow": true,
+    "documentation": "https://xoneid.com",
+    "integration_type": "service",
+    "iot_class": "calculated",
+    "version": "0.2.0"
+}
